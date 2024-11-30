@@ -1,0 +1,62 @@
+@charset "utf-8";
+ul.decorate {
+		margin: 0px;
+		padding: 0px 0px 0px 15px;
+		background-color: #ED9213;
+	}
+	
+	ul.decorate li {
+		width: 125px;
+		display: inline-block;
+		list-style-type: none;
+		position: relative;
+	}
+	
+	ul.decorate a {
+    background-color: #ED9213;
+    color: black;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+    font-family: "ＭＳ ゴシック";
+    font-size: large;
+	}
+	
+	ul.decorate ul {
+		display: none;
+		margin: 0px;
+		padding: 0px;
+		position: absolute;
+	}
+	
+	ul.decorate a:hover {
+    background-color: #F3F284;
+    color: #D87000;
+	}
+	
+	ul.decorate li:hover ul {
+		display: block;
+	}body img {
+    width: 50%;
+    margin-right: 0%;
+}
+
+.font {
+    font-family: "ＭＳ ゴシック";
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+#one {
+	width: 100%;
+	height: 100%;
+}
+.movie{
+    text-align: center;
+}
+.movie video {
+    width: 60%;
+}

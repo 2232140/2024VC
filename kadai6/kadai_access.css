@@ -1,0 +1,46 @@
+@charset "utf-8";
+body img {
+    width: 30%;
+}
+body p img {
+	width: 60%;
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+body h1 {
+    background-color: #ED9213;
+    font-family: "ＭＳ ゴシック";
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.font {
+    font-family: "ＭＳ ゴシック";
+    font-size: medium;
+}
+
+#one {
+	width: 100%;
+	height: 100%;
+}
+
+#two {
+	width: 100%;
+	height: 100%;
+}
+
+#three {
+	width: 100%;
+	height: 100%;
+}
+
+#four {
+	width: 100%;
+	height: 100%;
+}
+
+#five {
+	width: 100%;
+	height: 100%;
+}

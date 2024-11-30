@@ -1,0 +1,55 @@
+@charset "utf-8";
+img p {
+    width: 100%;
+}
+.wrap .meet img {
+    width: 100%;
+    background-color: #FFFFFF;
+}
+
+.meet {
+    background-color: #FFFFFF;
+    float: left;
+    width: 40%;
+    padding-right: 3%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 6%;
+}
+body h1 {
+    background-color: #ED9213;
+    font-family: "ＭＳ ゴシック";
+    font-weight: bolder;
+    font-size: 36px;
+}
+
+.wrap {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 3%;
+    padding-left: 3%;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+body img {
+    width: 30%;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.font {
+    font-family: "ＭＳ ゴシック";
+    font-size: large;
+
+}
+.font_highlight {
+    font-family: "ＭＳ ゴシック";
+    font-size: x-large;
+    text-decoration: underline;
+    color: #000000;
+}
+.font_title {
+    color: #FF0000;
+    font-family: "ＭＳ ゴシック";
+    font-size: xx-large;
+}
