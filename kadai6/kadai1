@@ -1,1 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>kadai1</title>
+<link href="decorate.css" rel="stylesheet" type="text/css">
+</head>
 
+<body>
+<img src="ロゴ.jpg">
+<ul class="decorate">
+	<li><a href="menu.html">メニュー</a></li>
+	<li><a href="store.html">当店について</a></li>
+	<li><a href="access.html">アクセス</a></li>
+</ul>
+<div id="one">
+	<p class="font">中途半端なものは提供しません。一流の肉を格安で！ </p>
+</div>
+<div class="movie">
+	<video src="movie.mp4" loop autoplay muted></video>
+</div>
+</body>
+</html>
